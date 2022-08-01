@@ -1,0 +1,37 @@
+form{
+    width: 58%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    background-color: #c3ddcb;
+    padding-bottom: 4%;
+    border-radius: 93px;
+}
+h1{
+    text-align: center;
+    color: white;
+
+}
+input{
+    margin: 5px;
+    padding: 4px;
+    font-family: auto;
+    font-size: medium;
+    width: 30%;
+}
+button{
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 2%;
+    background: #799f78;
+    width: 35%;
+    padding: 5px;
+    color: white;
+}
+select{
+    margin: 5%;
+    width: 30%;
+    text-align: center;
+}
